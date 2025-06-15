@@ -5,7 +5,7 @@ Last updated: Jun 15, 2025 by Hector Morales
 
 This code repository has the following:
 
-Cisco Catalyst Center Monitoring and Automation API Laboratory v1.0, which contains step by step description of the lab with all detailed instructions.
-Postman collections for the dCloud lab. They are structured from the easiest to the most complex deployments. These postman collections can be modified for your specific CatC deployment. But for the purpose of this lab, postman collections must be executed inside the dCloud lab.
-Python Jupyter Notebook scripts. These python scripts are flexible to run in your environment and the main goal is for you to get to know intent APIs.
-Power Presentation that contains 
+** Cisco Catalyst Center Monitoring and Automation API Laboratory v1.0, which contains step by step description of the lab with all detailed instructions.
+** Postman collections for the dCloud lab. They are structured from the easiest to the most complex deployments. These postman collections can be modified for your specific CatC deployment. But for the purpose of this lab, postman collections must be executed inside the dCloud lab.
+** Python Jupyter Notebook scripts. These python scripts are flexible to run in your environment and the main goal is for you to get to know intent APIs.
+** Power Presentation that contains 
