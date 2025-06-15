@@ -9,3 +9,4 @@ This code repository has the following:
 - Postman collections for the dCloud lab. They are structured from the easiest to the most complex deployments. These postman collections can be modified for your specific CatC deployment. But for the purpose of this lab, postman collections must be executed inside the dCloud lab.
 - Python Jupyter Notebook scripts. These python scripts are flexible to run in your environment and the main goal is for you to get to know intent APIs.
 - Power Presentation.
+- confCons.xml is the console file configuration in case is missed on the dCloud.
