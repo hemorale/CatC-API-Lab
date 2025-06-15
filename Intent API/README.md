@@ -4,3 +4,4 @@ This lab has the intention for you to understand Cisco Catalyst Center Intent AP
 Files used in this lab:
 - requirements.txt file to install proper python packages
 - Jupyter notebook (Managed DNAC v3.ipynb)
+- Jupyter notebooks installation
